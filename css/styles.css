@@ -827,7 +827,7 @@ body {
 }
 
 .modal-form-checkbox:focus + .modal-form-checkbox-label::before {
-  border: 2px solid var(--accent-color);
+  border: 1px solid var(--accent-color);
 }
 
 .modal-form-btn {
